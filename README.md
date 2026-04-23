@@ -1,1 +1,1 @@
-# smartlogix_backend_aravena_corral_manr-quez
+# smartlogix_backend_aravena_corral_manriquez
